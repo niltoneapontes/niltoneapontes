@@ -6,7 +6,7 @@ Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolve
 
 Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
-:alien:  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, Sass, Styled-Components, Axios, Express, MySQL, MongoDB e outras.
+👾  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, Sass, Styled-Components, Axios, Express, MySQL, MongoDB e outras.
 
 “If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”
 
