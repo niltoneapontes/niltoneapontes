@@ -1,16 +1,13 @@
-### Hi there 👋
+# Nilton Pontes
 
-<!--
-**niltoneapontes/niltoneapontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail badge](https://img.shields.io/badge/Gmail-critical)](mailto:niltoneapontes@gmail.com)	[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/niltonpontesem/)
 
-Here are some ideas to get you started:
+Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem Javascript. :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
+
+:alien:  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, Sass, Styled-Components, Axios, Express, MySQL, MongoDB e outras.
+
+“If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”
+
+*― Steve Wozniak*
