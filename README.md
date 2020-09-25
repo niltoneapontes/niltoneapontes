@@ -1,6 +1,6 @@
 # Nilton Pontes
 
-[![Gmail badge](https://img.shields.io/badge/Gmail-critical)](mailto:niltoneapontes@gmail.com)	[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/niltonpontesem/)
+[![Gmail badge](https://img.shields.io/badge/Gmail-critical?style=social)](mailto:niltoneapontes@gmail.com)	[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/niltonpontesem/)
 
 Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem Javascript. :smile:
 
