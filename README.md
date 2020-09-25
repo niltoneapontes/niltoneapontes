@@ -1,7 +1,10 @@
-<h1 align="center">
-  Nilton Pontes
-</h1>
-
+<div align="center>
+  <h1>
+    Nilton Pontes
+  </h1>
+  <img src="https://github.com/niltoneapontes/personal-portfolio/blob/master/assets/hacker.png" alt="Nilton logo" />
+</div>
+                                                                                                                 
 <p align="center">
   <a href="mailto:niltoneapontes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge" alt="Mail" />
