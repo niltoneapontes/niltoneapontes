@@ -1,6 +1,7 @@
-<p align="center">
-  <h1>Nilton Pontes</h1>
-</p>
+<h1 align="center">
+  Nilton Pontes
+</h1>
+
 <p align="center">
   <a href="mailto:niltoneapontes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge" alt="Mail" />
