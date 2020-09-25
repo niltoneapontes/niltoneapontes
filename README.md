@@ -1,7 +1,4 @@
 <div align="center">
-  <h1>
-    Nilton Pontes
-  </h1>
   <img src="https://github.com/niltoneapontes/personal-portfolio/blob/master/assets/hacker.png" alt="Nilton logo" width="120"/>
 </div>
                                                                                                                  
