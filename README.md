@@ -20,9 +20,9 @@ Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
 👾  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, React-native, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, TypeORM, ContextAPI e outras.
 
-*“If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”
+*“If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”*
 
-― Steve Wozniak*
+*― Steve Wozniak*
 
 <p align="center">
     <img src="https://github.com/niltoneapontes/niltoneapontes/blob/master/undraw_code_review_l1q9.svg" alt="svg" width="320"/>
