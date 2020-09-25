@@ -1,9 +1,9 @@
-<div align="center>
+<p align="center>
   <h1>
     Nilton Pontes
   </h1>
   <img src="https://github.com/niltoneapontes/personal-portfolio/blob/master/assets/hacker.png" alt="Nilton logo" />
-</div>
+</p>
                                                                                                                  
 <p align="center">
   <a href="mailto:niltoneapontes@gmail.com">
