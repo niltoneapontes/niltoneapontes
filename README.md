@@ -24,4 +24,6 @@ Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 
 *― Steve Wozniak*
 
-![Svg](https://github.com/niltoneapontes/niltoneapontes/blob/master/undraw_code_review_l1q9.svg)
+<p align="center">
+    <img src="https://github.com/niltoneapontes/niltoneapontes/blob/master/undraw_code_review_l1q9.svg" alt="svg" />
+</p>
