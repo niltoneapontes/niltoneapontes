@@ -2,7 +2,7 @@
   <h1>
     Nilton Pontes
   </h1>
-  <img src="https://github.com/niltoneapontes/personal-portfolio/blob/master/assets/hacker.png" alt="Nilton logo" width="240"/>
+  <img src="https://github.com/niltoneapontes/personal-portfolio/blob/master/assets/hacker.png" alt="Nilton logo" width="120"/>
 </div>
                                                                                                                  
 <p align="center">
@@ -23,3 +23,5 @@ Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
 “If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”
 
 *― Steve Wozniak*
+
+![Svg](https://github.com/niltoneapontes/niltoneapontes/blob/master/undraw_code_review_l1q9.svg)
