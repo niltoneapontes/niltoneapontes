@@ -6,10 +6,10 @@
 </div>
                                                                                                                  
 <p align="center">
-  <a href="mailto:niltoneapontes@gmail.com" style="text-decoration: none;">
+  <a href="mailto:niltoneapontes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge" alt="Mail" />
   </a>
-  <a href="https://www.linkedin.com/in/niltonpontesem/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/niltonpontesem/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
