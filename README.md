@@ -13,9 +13,9 @@
 
 Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem Javascript. :smile:
 
-Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Aprendendo mais sobre como aplicar os Princípios SOLID, construir código limpo, utilizar Design Patterns e muito mais.
+Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Aprendendo mais sobre como aplicar os Princípios SOLID, TDD, DDD, construir código limpo, utilizar Design Patterns, e muito mais.
 
-👾  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, React-native, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, Redis, TypeORM, ContextAPI e outras.
+👾  Algumas das tecnologias que já estudei: ReactJS, TypeScript, NodeJS, React-native, JWT, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, Redis, TypeORM, ContextAPI e outras.
 
 *“If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”*
 
