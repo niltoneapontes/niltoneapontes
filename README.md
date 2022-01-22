@@ -11,7 +11,7 @@
   </a>
 </p>
 
-Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem Javascript. :smile:
+Focado em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem Javascript e agora apaixonado por Flutter/Dart!. :smile:
 
 Fazendo o GoStack da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Aprendendo mais sobre como aplicar os Princípios SOLID, TDD, DDD, construir código limpo, utilizar Design Patterns, e muito mais.
 
