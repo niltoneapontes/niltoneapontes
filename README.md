@@ -8,7 +8,6 @@
   </a>
 </p>
 
-------------
 
 ⭐️  Desenvolvedor Full Stack
 
@@ -20,7 +19,7 @@
 
 ⭐️  Algumas tecnologias com as quais já trabalhei foram: React-native, Vtex, OCC, Flutter, ReactJS, TypeScript, NodeJS, Swift, Redux, GraphQL, Prisma, JWT, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, Redis, TypeORM, ContextAPI, .NET, e outras.
 
-------------
+
 
 *“If you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.”*
 
