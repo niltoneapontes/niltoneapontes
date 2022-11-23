@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Desenvolvedor Full Stack Pleno
+Desenvolvedor Full Stack
 
 Me aprofundando cada vez mais em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem JavaScript/TypeScript e também de olho no Dart/Flutter! :smile:
 
