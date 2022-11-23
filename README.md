@@ -10,15 +10,15 @@
 
 ------------
 
-Desenvolvedor Full Stack
+⭐️  Desenvolvedor Full Stack
 
-Me aprofundando cada vez mais em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem JavaScript/TypeScript e também de olho no Dart/Flutter! :smile:
+⭐️  Me aprofundando cada vez mais em ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem JavaScript/TypeScript e também de olho no Dart/Flutter! :smile:
 
-Cursei o GoStack e completei alguns módulos do Ignite da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Ah, além de diversos cursos gratuitos oferecidos por instituições como a [Digital Innovation One](https://www.dio.me/ "Digital Innovation One").
+⭐️  Cursei o GoStack e completei alguns módulos do Ignite da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Ah, além de diversos cursos gratuitos oferecidos por instituições como a [Digital Innovation One](https://www.dio.me/ "Digital Innovation One").
 
-Aprendendo mais sobre como aplicar os Princípios SOLID, TDD, DDD, construir código limpo, utilizar Design Patterns, e muito mais.
+⭐️  Aprendendo mais sobre como aplicar os Princípios SOLID, TDD, DDD, construir código limpo, utilizar Design Patterns, e muito mais.
 
-Algumas tecnologias com as quais já trabalhei foram: React-native, Vtex, OCC, Flutter, ReactJS, TypeScript, NodeJS, Swift, Redux, GraphQL, Prisma, JWT, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, Redis, TypeORM, ContextAPI, .NET, e outras.
+⭐️  Algumas tecnologias com as quais já trabalhei foram: React-native, Vtex, OCC, Flutter, ReactJS, TypeScript, NodeJS, Swift, Redux, GraphQL, Prisma, JWT, Sass, Styled-Components, Axios, Express, MySQL, MongoDB, Redis, TypeORM, ContextAPI, .NET, e outras.
 
 ------------
 
