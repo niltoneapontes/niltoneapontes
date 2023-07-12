@@ -11,9 +11,9 @@
 
 ⭐️  Desenvolvedor Full Stack
 
-⭐️  Desenvolvedor Kotlin e Javascript
+⭐️  Desenvolvedor Kotlin e Javascript/Typescript
 
-⭐️  Me aprofundando cada vez mais em Kotlin e tentando me manter atualizado no ambiente ReactJS, React-native e NodeJS. Entusiasta das tecnologias que envolvem JavaScript/TypeScript e também de olho em Kotlin, Dart e Swift! :smile:
+⭐️  Me aprofundando cada vez mais em Kotlin e tentando me manter atualizado no ambiente ReactJS, React-native e NodeJS. Entusiasta do desenvolvimento mobile! :smile:
 
 ⭐️  Cursei o GoStack e completei alguns módulos do Ignite da [Rocketseat](https://rocketseat.com.br/ "Rocketseat"). Ah, além de diversos cursos gratuitos oferecidos por instituições como a [Digital Innovation One](https://www.dio.me/ "Digital Innovation One").
 
