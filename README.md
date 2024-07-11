@@ -1,10 +1,10 @@
                                                                                                               
 <p align="center">
   <a href="mailto:niltoneapontes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-critical?style=for-the-badge" alt="Mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   <a href="https://www.linkedin.com/in/niltonpontesem/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
