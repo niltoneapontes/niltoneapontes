@@ -1,19 +1,10 @@
-<style>
-  a {
-    text-decoration: none !important;
-  }
-
-  .marginRight {
-    margin-right: 1rem;
-  }
-</style>                                                                                                              
-
+                                                                                                      
 <p align="left">
-  <a href="mailto:niltoneapontes@gmail.com" class="marginRight">
+  <a href="mailto:niltoneapontes@gmail.com" style="text-decoration: none !important; margin-right: 1rem;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   
-  <a href="https://www.linkedin.com/in/niltonpontesem/">
+  <a href="https://www.linkedin.com/in/niltonpontesem/" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
